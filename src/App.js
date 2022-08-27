@@ -24,7 +24,7 @@ class App extends Component {
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
         ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+        : `res_primaryLanguage.json`;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -87,6 +87,7 @@ class App extends Component {
             element={<Home
               resumeData={this.state.resumeData}
               sharedData={this.state.sharedData}
+              
             />}>
           </Route>
           <Route 
