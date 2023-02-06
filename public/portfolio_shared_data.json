@@ -19,13 +19,8 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
           "level": "95"
         },
         {
@@ -34,15 +29,31 @@
           "level": "80"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
           "level": "70"
         },
         
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Express.js",
+          "class": "devicon-express-original",
+          "level": "70"
         },
      
         {
@@ -51,8 +62,8 @@
           "level": "60"
         },
         {
-          "name": "Python",
-          "class": "devicon-python-plain",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "60"
         }
       ]

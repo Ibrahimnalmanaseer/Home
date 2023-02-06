@@ -11,52 +11,60 @@
     },
     "projects": [
       {
-        "title": "Online Blogs",
+        "title": "HM Tour",
         "startDate": "2022",
-        "description": " let our authors to post blogs with ability to interact with audience , my first website on using Flask frame work ",
+        "description": "Social media platform focused on travel experiences and information,allowing users to share tips and recommendations",
         "images": [
-          "images/portfolio/online-blog/about-bg.jpg",
-          "images/portfolio/online-blog/blogwebsite.PNG"
+         
+          "images/portfolio/hm_tour/hmtour3.PNG"
 
           
         ],
-        "url": "  ",
+        "url": "https://github.com/HM-Tour",
         "technologies": [
           {
-            "class": "devicon-python-plain",
-            "name": "python"
+            "class": "devicon-django-plain",
+            "name": "Django"
           },
           {
             "class": "devicon-postgresql-plain",
             "name": "postgresql"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "html5"
+            "class": "devicon-react-original",
+            "name": "Next.js"
           },
+          
           {
-            "class": "devicon-css3-plain",
-            "name": "css3"
+            "class": "devicon-docker-plain",
+            "name": "Docker"
           }
         ]
       },
       {
-        "title": "HornesBeasts",
+        "title": "Job Hunter",
         "startDate": "2022",
-        "description": "Personal project for study subject. display horned beasts cards and ability to vote for your favourite beast, I learned alot on using React )",
+        "description": "Provide the users with the suited job that matches their skills, byscarping through the biggest job websites in the middle east.",
         "images": [
-          "images/portfolio/hornedbeast/unicorn.jpg",
-          "images/portfolio/hornedbeast/hornes.jpg"
+          "images/portfolio/hornedbeast/jobhunter2.png"
         ],
-        "url": "https://github.com/Ibrahimnalmanaseer/HornedBeast4",
+        "url": "https://github.com/Group2-JobHunter",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-express-original",
+            "name": "express.js"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-react-plain",
+            "name": "react"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "node.js"
           }
         ]
       },
@@ -67,7 +75,7 @@
         "images": [
           "images/portfolio/bookem/bookem.jpg","images/portfolio/bookem/bookem2.jpg"
         ],
-        "url": "https://jovial-pie-58a969.netlify.app/",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
